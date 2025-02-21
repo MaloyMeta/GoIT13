@@ -28,3 +28,10 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+.idea
+ .iws
+ .iml
+ .ipr
+ target
+ .DS_STORE /src/main/resources/log
